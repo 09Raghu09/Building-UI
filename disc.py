@@ -1,3 +1,4 @@
-import os
-import sys
-import numpy as np
+#!/usr/bin/env python
+
+import hello
+print (hello.greet())
