@@ -10,4 +10,4 @@ namespace
     std::string greet() { return "hello, world"; }  
     // write functions of mst-backbone here
     int square(int number) { return number * number; }
-}
+} //
