@@ -13,3 +13,4 @@ long long mysum(int n, int* array) {
     }
     return res;
 }
+/
